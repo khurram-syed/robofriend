@@ -2,7 +2,7 @@
   "name": "robofriend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://khurram-syed.github.io/robofriend",
+  "homepage": "http://khurram-syed.github.io/robofriend",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
